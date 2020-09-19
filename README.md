@@ -1,4 +1,4 @@
-# <h1>OrganizzeClone</h1>
+# <h1>Login UI</h1>
 <h2>Um aplicativo para estudo desenvolvido com react native</h2>
 
 O a tela de login foi desenvolvida para estudar animações no react native
